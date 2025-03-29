@@ -3,6 +3,7 @@ Engineered a predictive model to forecast stock prices using time series data.
  trends and predict future price movements
  
 _Usage 📊_
+
 **1.Prepare your CSV file with historical stock data containing**:
 
 -Date (YYYY-MM-DD format)
