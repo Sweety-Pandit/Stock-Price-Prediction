@@ -1,8 +1,9 @@
 Engineered a predictive model to forecast stock prices using time series data.
  Leveraged statistical and machine learning techniques to analyze historical stock market
  trends and predict future price movements
-Usage 📊
-1.Prepare your CSV file with historical stock data containing:
+ 
+_Usage 📊_
+**1.Prepare your CSV file with historical stock data containing**:
 
 -Date (YYYY-MM-DD format)
 
@@ -12,9 +13,9 @@ Usage 📊
 
 -Adj Close
 
-2.Launch the app and upload your CSV file
+**2.Launch the app and upload your CSV file**
 
-3.View predictions vs actual prices:
+**3.View predictions vs actual prices:**
 
 -Interactive line chart comparison
 
@@ -22,7 +23,7 @@ Usage 📊
 
 -Price difference visualization
 
-4.Model Details 🤖
+**4.Model Details 🤖**
 
 -Architecture: LSTM neural network
 
